@@ -2,6 +2,8 @@
 
 Bu çalışmada, Türkçe sosyal medya yorumları üzerinde duygu analizi gerçekleştirilmiş ve farklı metin vektörleştirme teknikleri (TF-IDF ve Word2Vec) ile makine öğrenimi modellerinin (Logistic Regression, SVM, Random Forest, Naive Bayes, KNN ve LSTM) performansları karşılaştırılmıştır. Test sonuçlarına göre TF-IDF tekniği, Word2Vec'e kıyasla daha başarılı bir temsil yöntemi olduğunu kanıtlamıştır. Ayrıca Logistic Regression ve SVM modelleri en yüksek doğruluğu sağlamıştır. Hiperparametre optimizasyonu yapılmaksızın elde edilen sonuçlar, duygu analizi çalışmalarında TF-IDF ile Logistic Regression ve SVM modellerinin öncelikli olarak tercih edilebileceğini göstermektedir.
 
+#### Projenin linki: [Yorum_analizi.ipynb](https://colab.research.google.com/drive/1TDI71Qchp1M6lEtCG6Dv8lyivDzaHs9e?usp=shari)
+
 ## Çözüm Dizaynı
 Hazırladığımız çözümün akışını adım adım açıklamak gerekirse, süreç aşağıdaki gibi
 olacaktır.
@@ -50,13 +52,3 @@ karşılaştırmaları).
 Modellerin duygu analizi performansı ve sınıflandırmadaki genel başarılarının
 yorumlanması.
 
-## Projenin Dosya ve Dizin Yapısı
-#### Projenin linki: [Yorum_analizi.ipynb](https://colab.research.google.com/drive/1TDI71Qchp1M6lEtCG6Dv8lyivDzaHs9e?usp=shari)
-
-
-
-
-
-
-
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/9840a0ff-9075-4372-a658-89bde2650b48" />
