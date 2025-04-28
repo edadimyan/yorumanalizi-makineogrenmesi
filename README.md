@@ -51,7 +51,7 @@ Modellerin duygu analizi performansı ve sınıflandırmadaki genel başarılar�
 yorumlanması.
 
 ## Projenin Dosya ve Dizin Yapısı
-#### Projenin linki: [Yorum_analizi.ipyn](https://colab.research.google.com/drive/1TDI71Qchp1M6lEtCG6Dv8lyivDzaHs9e?usp=shari)
+#### Projenin linki: [Yorum_analizi.ipynb](https://colab.research.google.com/drive/1TDI71Qchp1M6lEtCG6Dv8lyivDzaHs9e?usp=shari)
 
 
 
